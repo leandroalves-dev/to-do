@@ -1,0 +1,41 @@
+.tasks{
+    padding: 0.4rem 0.5rem;
+    border-radius: 5px;
+    width: 80%;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 0.5rem;
+    background: #2f2b2b;
+    border: 1px solid #393434;
+}
+
+.tasks h2{
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+.tasks .btns{
+    display: flex;
+    gap: 3px;
+}
+
+.tasks .btns button{
+    background: #1d1c1c;
+    border: 0;
+    color: #FFF;
+    padding: 0.5rem 0.8rem;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 3px;
+}
+
+.tasks .btns button:hover{
+    opacity: 0.6;
+}
+
+form{
+    margin-bottom: 1.5rem;
+}

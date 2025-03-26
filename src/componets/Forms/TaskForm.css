@@ -1,0 +1,29 @@
+.add{
+    border: 1px solid #4f4949;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 1rem 1.5rem 1rem 0;
+    width: 80%;
+    text-align: left;
+}
+
+.add span{
+    padding: 0 0.5rem;
+}
+
+.add input{
+    background: none;
+    border: 0;
+    color: #FFF;
+}
+
+.add input:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+.msg{
+    margin-top: 2rem;
+    font-size: 23px;
+    font-weight: normal;
+}
