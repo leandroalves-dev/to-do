@@ -69,6 +69,8 @@ const TaskForm = () => {
     setCurrentTitle(null);
   }
 
+  console.log(modalOpen)
+
   return (
     <>
       <ToastContainer
