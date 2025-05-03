@@ -15,6 +15,7 @@
     background: none;
     border: 0;
     color: #FFF;
+    width: 90%;
 }
 
 .add input:focus{
